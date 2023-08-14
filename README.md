@@ -8,15 +8,13 @@ The purpose of this project is to predict and classify the species (Setosa, Vers
 
 Link to frontend repo 👉🏼 [iris_react](https://github.com/GITvoren/iris_classifier_react)
 
-Flask API hosted on [Render](https://render.com/)
-
-React app hosted on [Vercel](https://vercel.com/dashboard)
-
-
 
 ## Machine Learning Algorithm Implemented
   - Decision Tree
 
+## Deployment and Hosting
+  - Flask API hosted on [Render](https://render.com/)
+  - React app hosted on [Vercel](https://vercel.com/dashboard)
 
 ## Built with
   - flask
