@@ -23,3 +23,4 @@ Link to frontend repo 👉🏼 [iris_react](https://github.com/GITvoren/iris_cla
   - numpy
   - scikit-learn
   - pandas
+  - iris flower dataset
