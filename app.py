@@ -6,6 +6,10 @@ app = Flask(__name__)
 
 CORS(app)
 
+@app.route('/', methods=['GET'])
+def api_ready():
+    return jsonify("API Ready")
+
 @app.route('/predict', methods=['POST'])
 def predict_specie():
      sepal_length = request.json['sepallength']
