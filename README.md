@@ -2,7 +2,10 @@
 
 This project is built with Flask as Backend and React as Frontend.
 
-The purpose of this project is to predict and classify the species of an Iris flower based on four features utilizing the DecisionTree ML Algorithm for the model.
+The purpose of this project is to predict and classify the species (Setosa, Versicolor, Virginica) of an Iris flower based on four features (Sepal Length, Sepal Width, Petal Length, Petal Width).
+
+### Machine Learning Algorithm Implemented
+  - Decision Tree
 
 [Live Demo](https://iris-classifier-react.vercel.app/)
 
