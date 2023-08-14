@@ -1,4 +1,4 @@
-## Iris Flower Classification Project
+# Iris Flower Classification Project
 
 This project is built with Flask as Backend and React as Frontend.
 
@@ -6,7 +6,7 @@ The purpose of this project is to predict and classify the species (Setosa, Vers
 
 
 
-### Machine Learning Algorithm Implemented
+## Machine Learning Algorithm Implemented
   - Decision Tree
 
 [Live Demo](https://iris-classifier-react.vercel.app/) of React/Flask App
@@ -18,7 +18,7 @@ Flask API hosted on [Render](https://render.com/)
 React app hosted on [Vercel](https://vercel.com/dashboard)
 
 
-### Built with
+## Built with
   - flask
   - gunicorn
   - cors
