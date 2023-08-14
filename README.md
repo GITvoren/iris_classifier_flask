@@ -9,7 +9,7 @@ The purpose of this project is to predict and classify the species (Setosa, Vers
 ### Machine Learning Algorithm Implemented
   - Decision Tree
 
-[Live Demo](https://iris-classifier-react.vercel.app/)
+[Live Demo](https://iris-classifier-react.vercel.app/) of React/Flask App
 
 Link to frontend repo 👉🏼 [iris_react](https://github.com/GITvoren/iris_classifier_react)
 
